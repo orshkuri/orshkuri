@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Or Shkuri</h1>
 <h3 align="center">MSc student in Data Science and Mathematics. Passionate about applying mathematical insight to real-world problems through innovative, hands-on projects. Deeply interested in Deep Learning (Vision, NLP, Reinforcement Learning, Generative Models), with a broader enthusiasm for Data Science and algorithms.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orshkuri" alt="orshkuri" /></a> </p>
-
 - 📫 How to reach me **orshkuri2000@gmail.co.il**
 
 - 📄 Know about my experiences [link here](link here)
